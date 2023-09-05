@@ -1,6 +1,6 @@
 ## Hi there, welcome 👋🏻
 
-I'm a person who enjoys challenges and solving problems using code, regardless of the programming language.
+I'm a person who enjoys challenges and solving problems using code, regardless of the programming language. Today I only have a few things that I use during my studies.
 
 ## About me:
 
@@ -10,12 +10,7 @@ I'm a person who enjoys challenges and solving problems using code, regardless o
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/vinicius-schuck)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not busy coding, I'm out there, riding my bike and letting the wheels spin the story of my journey. 👨🏻‍💻 🚴🏻‍♂️
-
-## My favorite code:
-
-```
-while(alive) learn()
-```
+- 🚀 As a programmer: `while(alive) learn()`
 
 ## My stats:
 
